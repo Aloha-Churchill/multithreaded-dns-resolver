@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "multi-lookup.h": "c",
+        "time.h": "c"
+    }
+}
